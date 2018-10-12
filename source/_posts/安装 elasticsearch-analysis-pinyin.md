@@ -1,4 +1,6 @@
-#### 安装 elasticsearch-analysis-pinyin
+---
+title: 安装 elasticsearch-analysis-pinyin
+---
 
 直接进入版本库，下载对应版本编译后的压缩文件
 
